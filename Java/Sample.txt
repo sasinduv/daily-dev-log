@@ -1,0 +1,2 @@
+Hello, this my day 2 GitHub commit!
+ Leraning java file handling.
