@@ -1,3 +1,16 @@
+/*
+Day 3: Reverse an Array
+
+Algorithm:
+1. Initialize start = 0 and end = last index
+2. Swap elements at start and end
+3. Move start forward and end backward
+4. Repeat until start < end
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
+
 public class ArrayReverse {
     public static void main(String[] args) {
 
